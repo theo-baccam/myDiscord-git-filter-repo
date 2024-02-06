@@ -35,7 +35,7 @@ def handle_client(client, address):
     print(f"Le client d'IP {address} s'est déconnecté")
 
 # Paramètres du serveur
-host = "IP_ADRESS:1212"
+host = "IP_ADRESS"
 port = 12345
 
 # Création du socket
