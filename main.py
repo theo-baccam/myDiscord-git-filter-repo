@@ -10,8 +10,8 @@ ctk.set_appearance_mode("dark")
 
 db_connection = mysql.connector.connect(
     host="IP_ADRESS",
-    user="user",
-    password="discord",
+    user="",
+    password="",
     port="PORT",
     database="discord"
 )
